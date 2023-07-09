@@ -100,6 +100,7 @@ header{
 
 .failures-list{
     list-style-image: url('./images/icons/check.png');
+    /* list-style-position: inside; */
 }
 
 ul li{
